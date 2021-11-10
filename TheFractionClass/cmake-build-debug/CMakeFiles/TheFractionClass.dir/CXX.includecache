@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trevo/CLionProjects/TheFractionClass/FractionTest.cpp
+iostream
+-
+fraction_18tk30.h
+C:/Users/trevo/CLionProjects/TheFractionClass/fraction_18tk30.h
+
+C:/Users/trevo/CLionProjects/TheFractionClass/fraction_18tk30.cpp
+fraction_18tk30.h
+C:/Users/trevo/CLionProjects/TheFractionClass/fraction_18tk30.h
+iostream
+-
+
+C:/Users/trevo/CLionProjects/TheFractionClass/fraction_18tk30.h
+iostream
+-
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+
