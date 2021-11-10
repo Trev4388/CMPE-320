@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trevo/CLionProjects/ShakespearianInsultGenerator/insultgenerator_18tk30.cpp
+iostream
+-
+string
+-
+vector
+-
+time.h
+-
+fstream
+-
+algorithm
+-
+insultgenerator_18tk30.h
+C:/Users/trevo/CLionProjects/ShakespearianInsultGenerator/insultgenerator_18tk30.h
+
+C:/Users/trevo/CLionProjects/ShakespearianInsultGenerator/insultgenerator_18tk30.h
+iostream
+-
+string
+-
+vector
+-
+time.h
+-
+fstream
+-
+sstream
+-
+

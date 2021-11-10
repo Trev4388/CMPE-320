@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ShakespearianInsultGenerator.dir/objects.a
+C:\mingw\mingw64\bin\ar.exe cr CMakeFiles\ShakespearianInsultGenerator.dir/objects.a @CMakeFiles\ShakespearianInsultGenerator.dir\objects1.rsp
+C:\mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ShakespearianInsultGenerator.dir/objects.a -Wl,--no-whole-archive -o ShakespearianInsultGenerator.exe -Wl,--out-implib,libShakespearianInsultGenerator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ShakespearianInsultGenerator.dir\linklibs.rsp
