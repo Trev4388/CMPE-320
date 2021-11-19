@@ -1,4 +1,0 @@
-Mark: 85%
-TA Note: Insults are not in alphabetical order, but other than that, great work!
-
-Notes for improvment: Could use sets instead of vectors to prevent duplicates
