@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trevo/CLionProjects/StructuralImprovements/ShapesGood.cpp
+ShapesGood.h
+C:/Users/trevo/CLionProjects/StructuralImprovements/ShapesGood.h
+
+C:/Users/trevo/CLionProjects/StructuralImprovements/ShapesGood.h
+string
+-
+iostream
+-
+
