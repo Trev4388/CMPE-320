@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trevo/CLionProjects/JumbleGame/JumblePuzzle.h
+cctype
+-
+iostream
+-
+string
+-
+vector
+-
+ctime
+-
+
+C:/Users/trevo/CLionProjects/JumbleGame/testJumble.cpp
+JumblePuzzle.h
+C:/Users/trevo/CLionProjects/JumbleGame/JumblePuzzle.h
+

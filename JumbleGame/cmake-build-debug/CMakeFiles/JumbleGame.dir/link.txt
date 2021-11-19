@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\JumbleGame.dir/objects.a
+C:\mingw\mingw64\bin\ar.exe cr CMakeFiles\JumbleGame.dir/objects.a @CMakeFiles\JumbleGame.dir\objects1.rsp
+C:\mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\JumbleGame.dir/objects.a -Wl,--no-whole-archive -o JumbleGame.exe -Wl,--out-implib,libJumbleGame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\JumbleGame.dir\linklibs.rsp

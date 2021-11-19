@@ -1,0 +1,3 @@
+C:/Users/trevo/CLionProjects/JumbleGame/cmake-build-debug/CMakeFiles/JumbleGame.dir
+C:/Users/trevo/CLionProjects/JumbleGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trevo/CLionProjects/JumbleGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
